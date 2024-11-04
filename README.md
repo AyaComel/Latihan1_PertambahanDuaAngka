@@ -68,8 +68,12 @@ saat mendapatkan fokus.
     }
  ~~~
 
-## Indikator Penilaian:
+##Gambar
+~~~
+<img width="398" alt="latihan 1" src="https://github.com/user-attachments/assets/3a404d3f-3d66-40f3-aab1-d981e4364759">
+~~~
 
+## Indikator Penilaian:
 | No  | Komponen         |  Persentase  |
 | :-: | --------------   |   :-----:    |
 |  1  | Komponen GUI     |    20    |
