@@ -85,5 +85,5 @@ saat mendapatkan fokus.
 
 ## Pembuat
 
-Nama:
-NPM:
+Nama: Cahya Hayyuni
+NPM: 2210010118
