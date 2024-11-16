@@ -46,7 +46,7 @@ private void buttonKeluarActionPerformed(java.awt.event.ActionEvent evt) {
         System.exit(0);
     }                                         
 ~~~
-5. Variasi:
+## 5. Variasi:
 A.KeyAdapter pada JTextField untuk membatasi input hanya angka
 ~~~
     // TODO add your handling code here:
@@ -77,9 +77,9 @@ saat mendapatkan fokus.
     }
  ~~~
 
-##Gambar
+## Gambar
 ~~~
-<img width="398" alt="latihan 1" src="https://github.com/user-attachments/assets/3a404d3f-3d66-40f3-aab1-d981e4364759">
+![](https://github.com/firaaaa10/Latihan1_AplikasiPertambahanDuaAngka/blob/main/Cuplikan%20layar%202024-11-04%20095949.png)
 ~~~
 
 ## Indikator Penilaian:
