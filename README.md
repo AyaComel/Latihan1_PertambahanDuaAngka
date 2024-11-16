@@ -79,7 +79,7 @@ saat mendapatkan fokus.
 
 ## Gambar
 ~~~
-![](https://github.com/AyaComel/Latihan1_PertambahanDuaAngka/blob/main/latihan%201.png).
+![](https://github.com/AyaComel/Latihan1_PertambahanDuaAngka/blob/main/Latihan1.png).
 ~~~
 
 ## Indikator Penilaian:
