@@ -78,10 +78,8 @@ saat mendapatkan fokus.
  ~~~
 
 ## Gambar
-~~~
-<img width="404" alt="Latihan1" src="https://github.com/user-attachments/assets/c0b29541-d3ae-47b9-91e7-42b24fa1cb7f">
 
-~~~
+<img width="404" alt="Latihan1" src="https://github.com/user-attachments/assets/cfb7c63d-8fe8-4584-b812-969efbcc8d94">
 
 ## Indikator Penilaian:
 | No  | Komponen         |  Persentase  |
