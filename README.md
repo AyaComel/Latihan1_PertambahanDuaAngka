@@ -79,7 +79,7 @@ saat mendapatkan fokus.
 
 ## Gambar
 ~~~
-![](https://github.com/firaaaa10/Latihan1_AplikasiPertambahanDuaAngka/blob/main/Cuplikan%20layar%202024-11-04%20095949.png)
+![](https://github.com/AyaComel/Latihan1_PertambahanDuaAngka/blob/main/latihan%201.png).
 ~~~
 
 ## Indikator Penilaian:
